@@ -1,4 +1,3 @@
-# bylaws.github.io
 LittleShield Bylaws
 
 ## Seven Cooperative Principles
