@@ -1,20 +1,35 @@
-# LittleShield Bylaws
+# bylaws.github.io
 
-## Seven Cooperative Principles
-LittleShield operates according to the seven cooperative principles. These principles help guide the operations of all co-ops throughout the world. They were first described in 1844 and, while they have gone through a series of changes over the years, these principles still form the basis of the cooperative spirit to this day.
+LittleShield Bylaws
 
-Here are the seven principles that help guide our daily operations at LittleShield:
+## The 7 Cooperative Principles
 
-1. **Voluntary and Open Membership.** Cooperatives are open to anyone able to use their services and willing to accept the responsibilities of membership. There is no discrimination based on gender, social status, race, political affiliation or religion.
+A cooperative is an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise. The cooperative principles are guidelines by which cooperatives put their values into practice.
 
-2. **Democratic Member Control.** Cooperatives are controlled directly by their members. Elected representatives are accountable to membership, and members are expected to participate actively.
+1. **Voluntary and Open Membership**
 
-3. **Members’ Economic Participation.** Members control the capital of their cooperative and are expected to operate as a not-for-profit organization. If there is a surplus in capital, it is used to fund improvements or expansion, or it is credited to members.
+   Cooperatives are voluntary organisations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
 
-4. **Autonomy and Independence.** Cooperatives are autonomous, democratic and always controlled by members.
+2. **Democratic Member Control**
 
-5. **Education, Training and Information.** Cooperatives educate and train their members so they will continue to grow and improve. They also inform legislators and the public about the benefits and nature of cooperatives.
+   Cooperatives are democratic organisations controlled by their members, who actively participate in setting their policies and making decisions. Men and women serving as elected representatives are accountable to the membership. In primary cooperatives members have equal voting rights (one member, one vote) and cooperatives at other levels are also organised in a democratic manner.
 
-6. **Cooperation Among Cooperatives.** The cooperative movement is strengthened by collaboration between cooperative organizations. This can happen at the local, national and international levels.
+3. **Member Economic Participation**
 
-7. **Concern for Community.** Cooperatives work for sustainable development in their communities through policies agreed upon by their members.
+   Members contribute equitably to, and democratically control, the capital of their cooperative. At least part of that capital is usually the common property of the cooperative. Members usually receive limited compensation, if any, on capital subscribed as a condition of membership. Members allocate surpluses for any or all of the following purposes: developing their cooperative, possibly by setting up reserves, part of which at least would be indivisible; benefiting members in proportion to their transactions with the cooperative; and supporting other activities approved by the membership.
+
+4. **Autonomy and Independence**
+
+   Cooperatives are autonomous, self-help organisations controlled by their members. If they enter into agreements with other organisations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
+
+5. **Education, Training, and Information**
+
+   Cooperatives provide education and training for their members, elected representatives, managers, and employees so they can contribute effectively to the development of their co-operatives. They inform the general public – particularly young people and opinion leaders – about the nature and benefits of co-operation.
+   
+6. **Cooperation among Cooperatives**
+
+   Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, national, regional and international structures.
+
+7. **Concern for Community**
+
+   Cooperatives work for the sustainable development of their communities through policies approved by their members.
