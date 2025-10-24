@@ -1,4 +1,4 @@
-LittleShield Bylaws
+# LittleShield Bylaws
 
 ## Seven Cooperative Principles
 LittleShield operates according to the seven cooperative principles. These principles help guide the operations of all co-ops throughout the world. They were first described in 1844 and, while they have gone through a series of changes over the years, these principles still form the basis of the cooperative spirit to this day.
